@@ -11,7 +11,7 @@ Using a unified sentence transformer architecture, we demonstrate that joint tra
 Currently, this repository provides the detailed accuracy scores and statistical analysis discussed in the paper:
 
 * **`results/main_results_accuracy.csv`**: Mean accuracies for all training configurations (Pil-WiC, MCL-WiC, XL-Lexeme, and FEWS).
-* **`results/raw_runs/`**: Exact accuracy scores for every individual run ($n=3$) to ensure full transparency.
+* **`results/raw_runs.csv`**: Exact accuracy scores for every individual run ($n=3$) to ensure full transparency.
 * **`results/statistical_tests.csv`**: Results of the independent two-sample t-tests.
 
 ### Key Findings
